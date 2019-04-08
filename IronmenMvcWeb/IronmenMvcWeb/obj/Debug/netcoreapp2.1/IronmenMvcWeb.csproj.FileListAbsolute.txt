@@ -33,6 +33,7 @@ C:\Users\cg\source\repos\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\Iro
 C:\Users\cg\source\repos\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_PokemonDetailPartial.g.cshtml.cs
 C:\Users\cg\source\repos\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Account.g.cshtml.cs
 C:\Users\cg\source\repos\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Report.g.cshtml.cs
+<<<<<<< HEAD
 E:\ooad_project\IronmenMvcWeb\IronmenMvcWeb\bin\Debug\netcoreapp2.1\IronmenMvcWeb.deps.json
 E:\ooad_project\IronmenMvcWeb\IronmenMvcWeb\bin\Debug\netcoreapp2.1\IronmenMvcWeb.runtimeconfig.json
 E:\ooad_project\IronmenMvcWeb\IronmenMvcWeb\bin\Debug\netcoreapp2.1\IronmenMvcWeb.runtimeconfig.dev.json
@@ -68,3 +69,41 @@ E:\ooad_project\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\IronmenMvcWe
 E:\ooad_project\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\IronmenMvcWeb.dll
 E:\ooad_project\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\IronmenMvcWeb.pdb
 E:\ooad_project\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\IronmenMvcWeb.csproj.CopyComplete
+=======
+C:\Users\cg\Desktop\107碩一下\OOAD\Cg_Lab MeetingList\IronmenMvcWeb\IronmenMvcWeb\bin\Debug\netcoreapp2.1\IronmenMvcWeb.deps.json
+C:\Users\cg\Desktop\107碩一下\OOAD\Cg_Lab MeetingList\IronmenMvcWeb\IronmenMvcWeb\bin\Debug\netcoreapp2.1\IronmenMvcWeb.runtimeconfig.json
+C:\Users\cg\Desktop\107碩一下\OOAD\Cg_Lab MeetingList\IronmenMvcWeb\IronmenMvcWeb\bin\Debug\netcoreapp2.1\IronmenMvcWeb.runtimeconfig.dev.json
+C:\Users\cg\Desktop\107碩一下\OOAD\Cg_Lab MeetingList\IronmenMvcWeb\IronmenMvcWeb\bin\Debug\netcoreapp2.1\IronmenMvcWeb.dll
+C:\Users\cg\Desktop\107碩一下\OOAD\Cg_Lab MeetingList\IronmenMvcWeb\IronmenMvcWeb\bin\Debug\netcoreapp2.1\IronmenMvcWeb.pdb
+C:\Users\cg\Desktop\107碩一下\OOAD\Cg_Lab MeetingList\IronmenMvcWeb\IronmenMvcWeb\bin\Debug\netcoreapp2.1\IronmenMvcWeb.Views.dll
+C:\Users\cg\Desktop\107碩一下\OOAD\Cg_Lab MeetingList\IronmenMvcWeb\IronmenMvcWeb\bin\Debug\netcoreapp2.1\IronmenMvcWeb.Views.pdb
+C:\Users\cg\Desktop\107碩一下\OOAD\Cg_Lab MeetingList\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\IronmenMvcWeb.csprojAssemblyReference.cache
+C:\Users\cg\Desktop\107碩一下\OOAD\Cg_Lab MeetingList\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\IronmenMvcWeb.csproj.CoreCompileInputs.cache
+C:\Users\cg\Desktop\107碩一下\OOAD\Cg_Lab MeetingList\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\IronmenMvcWeb.RazorAssemblyInfo.cache
+C:\Users\cg\Desktop\107碩一下\OOAD\Cg_Lab MeetingList\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\IronmenMvcWeb.RazorAssemblyInfo.cs
+C:\Users\cg\Desktop\107碩一下\OOAD\Cg_Lab MeetingList\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\IronmenMvcWeb.AssemblyInfoInputs.cache
+C:\Users\cg\Desktop\107碩一下\OOAD\Cg_Lab MeetingList\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\IronmenMvcWeb.AssemblyInfo.cs
+C:\Users\cg\Desktop\107碩一下\OOAD\Cg_Lab MeetingList\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\IronmenMvcWeb.TagHelpers.input.cache
+C:\Users\cg\Desktop\107碩一下\OOAD\Cg_Lab MeetingList\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\IronmenMvcWeb.TagHelpers.output.cache
+C:\Users\cg\Desktop\107碩一下\OOAD\Cg_Lab MeetingList\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\IronmenMvcWeb.RazorCoreGenerate.cache
+C:\Users\cg\Desktop\107碩一下\OOAD\Cg_Lab MeetingList\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\cg\Desktop\107碩一下\OOAD\Cg_Lab MeetingList\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Account.g.cshtml.cs
+C:\Users\cg\Desktop\107碩一下\OOAD\Cg_Lab MeetingList\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\cg\Desktop\107碩一下\OOAD\Cg_Lab MeetingList\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\cg\Desktop\107碩一下\OOAD\Cg_Lab MeetingList\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\cg\Desktop\107碩一下\OOAD\Cg_Lab MeetingList\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Report.g.cshtml.cs
+C:\Users\cg\Desktop\107碩一下\OOAD\Cg_Lab MeetingList\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\cg\Desktop\107碩一下\OOAD\Cg_Lab MeetingList\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\cg\Desktop\107碩一下\OOAD\Cg_Lab MeetingList\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\cg\Desktop\107碩一下\OOAD\Cg_Lab MeetingList\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_PokemonDetailPartial.g.cshtml.cs
+C:\Users\cg\Desktop\107碩一下\OOAD\Cg_Lab MeetingList\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\cg\Desktop\107碩一下\OOAD\Cg_Lab MeetingList\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\cg\Desktop\107碩一下\OOAD\Cg_Lab MeetingList\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\cg\Desktop\107碩一下\OOAD\Cg_Lab MeetingList\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\IronmenMvcWeb.RazorTargetAssemblyInfo.cache
+C:\Users\cg\Desktop\107碩一下\OOAD\Cg_Lab MeetingList\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\IronmenMvcWeb.RazorTargetAssemblyInfo.cs
+C:\Users\cg\Desktop\107碩一下\OOAD\Cg_Lab MeetingList\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\IronmenMvcWeb.Views.pdb
+C:\Users\cg\Desktop\107碩一下\OOAD\Cg_Lab MeetingList\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\IronmenMvcWeb.dll
+C:\Users\cg\Desktop\107碩一下\OOAD\Cg_Lab MeetingList\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\IronmenMvcWeb.pdb
+C:\Users\cg\Desktop\107碩一下\OOAD\Cg_Lab MeetingList\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\IronmenMvcWeb.csproj.CopyComplete
+C:\Users\cg\Desktop\107碩一下\OOAD\Cg_Lab MeetingList\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\Razor\Views\Home\Register.g.cshtml.cs
+>>>>>>> 0c3160c9e4f6fdc340e5941aff3b33f3591ac697

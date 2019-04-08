@@ -1,4 +1,7 @@
 using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
 
 namespace IronmenMvcWeb.Models
 {
@@ -7,6 +10,14 @@ namespace IronmenMvcWeb.Models
         public string RequestId { get; set; }
 
         public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
+    }
+
+    public class Member
+    {
+        public string Username { get; set; }
+        public string StudentID { get; set; }
+        public string Email { get; set; }
+        public string Password { get; set; }
     }
 
     public class Pokemon
@@ -33,5 +44,15 @@ namespace IronmenMvcWeb.Models
         public string Title { get; set; }
 
         public DateTime PublishDate { get; set; }
+    }
+
+    public class Register
+    {
+        public int Id { get; set; }
+        public string Username { get; set; }
+        public string StudentID { get; set; }
+        public string Email { get; set; }
+        public string Password { get; set; }
+        public string Password_confirm { get; set; }
     }
 }

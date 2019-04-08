@@ -7,8 +7,6 @@ using Microsoft.AspNetCore.Mvc;
 using IronmenMvcWeb.Models;
 
 
-
-
 namespace IronmenMvcWeb.Controllers
 {
     public class HomeController : Controller
@@ -22,7 +20,17 @@ namespace IronmenMvcWeb.Controllers
                 return this._pokemons;
             }
         }
-    
+
+        public List<Member> _members;
+        public List<Member> members {
+            get
+            {
+                if (this._members == null)
+                    this._members = new List<Member>();
+                return this._members;
+            }
+        }
+
         //public object Pokemons { get => pokemons; set => pokemons = value; }
 
         public IActionResult Index() // Index 的 Controller
@@ -138,6 +146,44 @@ namespace IronmenMvcWeb.Controllers
                 };
                 // pokemons.Append<Pokemon>(a);
                 pokemons.Add(a);
+            }
+            return View();
+        }
+
+        [HttpGet]
+        public IActionResult Register()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Register(Register register)
+        {
+            /*   string Username = post["username"];
+               string password1 = post["password1"];
+               string password2 = post["password2"];
+
+               if (string.IsNullOrWhiteSpace(password1) || password1 != password2)
+               {
+                   ViewBag.Msg = "密碼輸入錯誤";
+                   return View();
+               }
+               else
+               {
+                   Response.Redirect("Login");
+                   return new EmptyResult();
+               }*/
+            if (ModelState.IsValid)
+            {
+                var member = new Member()
+                {
+                    Username = "江宇軒",
+                    StudentID = "107598000",
+                    Email = "fuck@gmail.com",
+                    Password = "123456",
+                };
+                // pokemons.Append<Pokemon>(a);
+                members.Add(member);
             }
             return View();
         }
