@@ -11801,11 +11801,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cg\\source\\repos\\IronmenMvcWeb\\IronmenMvcWeb\\IronmenMvcWeb.csproj",
+      "projectUniqueName": "E:\\ooad_project\\IronmenMvcWeb\\IronmenMvcWeb\\IronmenMvcWeb.csproj",
       "projectName": "IronmenMvcWeb",
-      "projectPath": "C:\\Users\\cg\\source\\repos\\IronmenMvcWeb\\IronmenMvcWeb\\IronmenMvcWeb.csproj",
+      "projectPath": "E:\\ooad_project\\IronmenMvcWeb\\IronmenMvcWeb\\IronmenMvcWeb.csproj",
       "packagesPath": "C:\\Users\\cg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cg\\source\\repos\\IronmenMvcWeb\\IronmenMvcWeb\\obj\\",
+      "outputPath": "E:\\ooad_project\\IronmenMvcWeb\\IronmenMvcWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
