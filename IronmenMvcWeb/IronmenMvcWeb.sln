@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IronmenMvcWeb", "IronmenMvcWeb\IronmenMvcWeb.csproj", "{7F11E828-21CE-46FE-8F38-88A8E8EFE84F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F11E828-21CE-46FE-8F38-88A8E8EFE84F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F11E828-21CE-46FE-8F38-88A8E8EFE84F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F11E828-21CE-46FE-8F38-88A8E8EFE84F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F11E828-21CE-46FE-8F38-88A8E8EFE84F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26323F14-882C-4B77-9C25-EF50A0DBA394}
+	EndGlobalSection
+EndGlobal
