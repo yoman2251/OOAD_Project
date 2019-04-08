@@ -1,0 +1,19 @@
+/* .carousel_size{
+    width: 100%;
+    height: 200px;
+} */
+/* #carousel-bg {
+    height: 200px;    
+} */
+
+ol .carousel-indicators li{
+    color: black;
+}
+
+.sr-only{
+    color: black;
+}
+.carousel_size img {
+    width: 100%;
+    height: 800px;
+}
