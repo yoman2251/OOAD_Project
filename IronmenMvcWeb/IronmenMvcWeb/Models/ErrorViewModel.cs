@@ -31,7 +31,7 @@ namespace IronmenMvcWeb.Models
     public class Account
     {
         public int Id { get; set; }
-
+   
         public string Title { get; set; }
 
         public DateTime PublishDate { get; set; }
@@ -39,11 +39,13 @@ namespace IronmenMvcWeb.Models
 
     public class Report
     {
-        public int Id { get; set; }
-
+        public int RId { get; set; }
         public string Title { get; set; }
-
-        public DateTime PublishDate { get; set; }
+        public string Author { get; set; }
+        public string PublishDate { get; set; }
+        public string Source { get; set; }
+        // public Account Account { get; set; }
+        public string Date { get; set; }
     }
 
     public class Register

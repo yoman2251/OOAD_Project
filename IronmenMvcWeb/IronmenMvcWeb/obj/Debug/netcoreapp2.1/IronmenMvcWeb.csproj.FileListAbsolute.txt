@@ -141,3 +141,4 @@ E:\ooad_project\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\IronmenMvcWe
 E:\ooad_project\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\IronmenMvcWeb.dll
 E:\ooad_project\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\IronmenMvcWeb.pdb
 E:\ooad_project\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\IronmenMvcWeb.csproj.CopyComplete
+E:\ooad_project\IronmenMvcWeb\IronmenMvcWeb\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ReportDetailPartial.g.cshtml.cs

@@ -11,13 +11,24 @@ namespace IronmenMvcWeb.Controllers
 {
     public class HomeController : Controller
     {
-        //        public object pokemons = new List<Pokemon>();
         public List<Pokemon> _pokemons;
-        public List<Pokemon> pokemons {
+        public List<Pokemon> pokemons
+        {
             get {
                 if (this._pokemons == null)
                     this._pokemons = new List<Pokemon>();
                 return this._pokemons;
+            }
+        }
+
+        public List<Report> _reports;
+        public List<Report> reports
+        {
+            get
+            {
+                if (this._reports == null)
+                    this._reports = new List<Report>();
+                return this._reports;
             }
         }
 
@@ -74,7 +85,7 @@ namespace IronmenMvcWeb.Controllers
                 
             };
             */
-
+            /*
             var a = new Pokemon()
             {
                 Title = "Paper3",
@@ -85,10 +96,32 @@ namespace IronmenMvcWeb.Controllers
             // pokemons.Append<Pokemon>(a);
             pokemons.Add(a);
             pokemons.Add(a);
+            */
+
+            var rep1 = new Report()
+            {
+                Title = "Bounded biharmonic weights for real-time deformation",
+                Author = "Alec Jacobson,Ilya Baran,Jovan Popović,Olga ",
+                PublishDate = "2014",
+                Source = "ACM CACM",
+                Date = "4/11",
+            };
+            reports.Add(rep1);
+
+            var rep2 = new Report()
+            {
+                Title = "Learning to Group Discrete Graphical Patterns",
+                Author = "Zhaoliang Lun*, Changqing Zou*, Haibin Huang, Evangelos Kalogerakis, Ping Tan, Marie-Paule Cani, Hao Zhang",
+                PublishDate = "November 2017",
+                Source = "ACM Transactions on Graphics (TOG)",
+                Date = "3/29",
+            };
+            reports.Add(rep2);
 
 
             // return View(pokemon);
-            return View(pokemons);
+            // return View(pokemons);
+            return View(reports);
         }
 
         public IActionResult About() // About 的 Controller

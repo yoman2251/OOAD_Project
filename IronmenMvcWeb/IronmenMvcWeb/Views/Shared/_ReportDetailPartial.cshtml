@@ -1,0 +1,28 @@
+@model IronmenMvcWeb.Models.Report
+
+@*Report View ©ñ¦b Views/Shared*@
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt> Title </dt>
+        <dd>@Model.Title</dd>
+
+        <dt> Author </dt>
+        <dd>
+            @Model.Author
+        </dd>
+
+        <dt> PublishDate </dt>
+        <dd>@Model.PublishDate</dd>
+
+        <dt> Source </dt>
+        <dd>@Model.Source</dd>
+
+		@*<dt> Account </dt>
+        <dd>@Model.Account.Name</dd>*@
+
+		<dt> Date </dt>
+        <dd>@Model.Date</dd>
+    </dl>
+</div>
